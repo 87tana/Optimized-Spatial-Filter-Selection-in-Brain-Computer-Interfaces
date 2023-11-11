@@ -10,7 +10,7 @@ Electroencephalography (EEG), with its affordability and high temporal resolutio
 Despite the advantages of EEG, it is imperative to mitigate the effects of volume conduction by spatial filtering. 
 Common Spatial Patterns (CSP) stand out as one of the most effective spatial filtering methods, generating subject-specific spatial filters through EEG signal decomposition.
 The selection of CSP filters taking into account inter-individual specificities is considered crucial for improving rehabilitation outcomes. 
-However, the current landscape lacks a systematic approach for filter selection, often relying on empirical methods or heuristic guidelines, as illustrated by plausible and implausible CSPs according to the Niklas guidelines used in this study.
+However, the current landscape lacks a systematic approach for filter selection, often relying on empirical methods or heuristic guidelines, as illustrated by plausible and implausible CSPs according to the Niclas Braun's guidelines used in this study.
 
 <p align="center">
     <img width="400" src="/images/plausible_csp_example.jpg" alt="Material Bread logo">
