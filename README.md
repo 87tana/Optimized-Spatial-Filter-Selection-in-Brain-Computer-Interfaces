@@ -1,4 +1,5 @@
-# Data-Driven Brain Signal Filtering: Influence of Morphological and Functional Variability on Surface EEG
+# Data-Driven Spatial Filter Selection for Adaptive Brain-Computer Interfaces 
+<!--Influence of Morphological and Functional Variability on Surface EEG-->
 
 
 <p align="center">
