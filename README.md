@@ -1,7 +1,7 @@
 # BCI Neurofeedback
 
 In the field of motor imagery neurofeedback (MI-NF) and motor imagery brain-computer interface (MI-BCI), studies have consistently reported inter-individual performance variability. 
-Investigation of these variabilities has led to the proposition that stable anatomical differences that persist across the lifespan may have predictive value for understanding performance variability in MI-NF and MI-BCI (Grosse). 
+Investigation of these variabilities has led to the proposition that stable anatomical differences that persist across the lifespan may have predictive value for understanding performance variability in MI-NF and MI-BCI (Grosse et al. 2013). 
 Electroencephalography (EEG), with its affordability and high temporal resolution, has been the preferred modality for such investigations, often relying on event-related desynchronization (ERD) as the neural signature. ERD, which represents an amplitude reduction in sensorimotor rhythms during motor activity in the [8-30] Hertz frequency range, is particularly pronounced over contralateral sensorimotor areas during unilateral movement execution. 
 Despite the advantages of EEG, it is imperative to mitigate the effects of volume conduction by spatial filtering. 
 Common Spatial Patterns (CSP) stand out as one of the most effective spatial filtering methods, generating subject-specific spatial filters through EEG signal decomposition.
