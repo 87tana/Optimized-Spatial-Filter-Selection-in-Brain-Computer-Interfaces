@@ -9,5 +9,5 @@ The selection of CSP filters taking into account inter-individual specificities 
 However, the current landscape lacks a systematic approach for filter selection, often relying on empirical methods or heuristic guidelines, as illustrated by plausible and implausible CSPs according to the Niklas guidelines used in this study.
 
 <p align="center">
-    <img width="400" src="/images/csp_selection.png" alt="Material Bread logo">
+    <img width="600" src="/images/csp_selection.jpg" alt="Material Bread logo">
 </p>
