@@ -1,4 +1,5 @@
-# BCI Neurofeedback
+# Data-Driven Brain Signal Filtering: Influence of Morphological and Functional Variability on Surface EEG
+
 
 <p align="center">
     <img width="600" src="/images/csp_selection.jpg" alt="Material Bread logo">
