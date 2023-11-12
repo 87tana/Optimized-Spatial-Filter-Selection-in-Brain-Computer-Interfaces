@@ -17,3 +17,15 @@ However, the current landscape lacks a systematic approach for filter selection,
 <p align="center">
     <img width="400" src="/images/plausible_csp_example.jpg" alt="Material Bread logo">
 </p>
+
+## Aim of Study
+The \textbf{hypothesis} is that anatomical variabilities can help explain the variability of scalp-level EEG patterns and CSP patterns.
+Therefore, the \textbf{aim of this study} is to investigate the correlations between inter-individual anatomical variabilities and scalp-level EEG patterns in order to evaluate two CSP selection approaches that take anatomical information into account. 
+In particular, two anatomical variabilities were considered: 
+- the morphological variability of the hand knob (HK), a key area in the motor cortex, and
+- the percentage of cortical activity during hand motor execution in the gyrus. 
+The HK, located anterior to the central sulcus, exhibits a knob-like structure that varies across hemispheres and subjects, as illustrated by five variants: Omega, M-Epsilon, Epsilon, L-Epsilon, and Null. The study also explores the plausibility of the selected CSPs based on anatomical information.
+
+<p align="center">
+    <img width="400" src="/images/hand_knob.jpg" alt="Material Bread logo">
+</p>
