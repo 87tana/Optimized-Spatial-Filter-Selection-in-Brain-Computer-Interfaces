@@ -45,9 +45,9 @@ The dataset focuses on the task of hand motor execution, specifically closing an
 
 ## Methodology
 The study steps are as follows:
-1- Define the region of interest (ROI) for each subject based on individual functional information. 
-2- Simulate the cortical activity associated with hand motor execution to obtain EEG patterns at the scalp using forward modeling.
-3- Use the simulated pattern for each individual to select a CSP pattern. 
-4- Examine the selected CSP patterns for meaningful relationships to anatomical variability.
+1. Define the region of interest (ROI) for each subject based on individual functional information. 
+2. Simulate the cortical activity associated with hand motor execution to obtain EEG patterns at the scalp using forward modeling.
+3. Use the simulated pattern for each individual to select a CSP pattern. 
+4. Examine the selected CSP patterns for meaningful relationships to anatomical variability.
   
 
