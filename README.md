@@ -231,3 +231,14 @@ Blankertz (Blankertz et al., 2010) evaluated the correlation between resting sta
 <p align="center">
     <img width="250" src="/images/plausible_csp_statistics.jpg" alt="Material Bread logo">
 </p>
+
+## References:
+
+- Braun N., Heuristics for selection of appropriate patterns/filters for motor imagery BCI.
+- Blankertz, B., et al. (2010). Neurophysiological predictor of SMR-based BCI performance. Neuroimage, 51(4):1303-1309.
+- Grosse-Wentrup, M., et al. (2013). Brain-Computer Interface Research: A State-of-the-Art Summary. Springer, Berlin, Heidelberg.
+- Huster, R. J., et al. (2012). Methods for simultaneous EEG-fMRI: an introductory review. Journal of Neuroscience, 32(18):6053-6060.
+- Kaiser, V., et al. (2011). First step toward a motor imagery based stroke BCI: New strategy to setup a classifier. Frontiers in Neuroscience, 5, 86.
+- Klimesch, W. (1997). EEG-alpha rhythms and memory processes. International Journal of Psychophysiology, 26(1):319-340.
+- Meekes, J., et al. (2017). P 69 assessing the relation between brain structure and function during motor imagery in stroke patients and controls using EEG and MRI. Clinical Neurophysiology, 128(10):e362.
+- Zich, C. (2017). Characterizing signatures of motor imagery in younger and older adults using multimodal neuroimaging. PhD thesis, Carl von Ossietzky Universität Oldenburg.
