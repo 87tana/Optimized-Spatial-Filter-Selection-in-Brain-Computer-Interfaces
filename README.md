@@ -164,7 +164,7 @@ The results did not show any meaningful pattern to verify a relationship between
 
 The results may be affected by several factors. 
 
-**1. Simulation accuracy:** The accuracy of the simulation used to derive anatomical information and compare it to CSP patterns may not be sufficient to interpret anatomical variability at the sensor level. Factors affecting the accuracy of the simulation include:
+**Simulation accuracy:** The accuracy of the simulation used to derive anatomical information and compare it to CSP patterns may not be sufficient to interpret anatomical variability at the sensor level. Factors affecting the accuracy of the simulation include:
 - Errors in forward and source modeling.
 - The simulation does not account for individual characteristics such as age, which is important in this study.
 - The simulation procedure does not take into account certain cortical and non-cortical activities that influence real EEG data and consequently CSPs. This discrepancy between simulated and real EEG patterns is evident in the histogram of correlations between subjects' simulated patterns and CSPs, where simulated patterns show high correlation while CSPs differ from each other.
