@@ -28,5 +28,5 @@ In particular, two anatomical variabilities were considered:
 The HK, located anterior to the central sulcus, exhibits a knob-like structure that varies across hemispheres and subjects, as illustrated by five variants: Omega, M-Epsilon, Epsilon, L-Epsilon, and Null. The study also explores the plausibility of the selected CSPs based on anatomical information.
 
 <p align="center">
-    <img width="400" src="/images/hand_knob.jpg" alt="Material Bread logo">
+    <img width="600" src="/images/hand_knob.jpg" alt="Material Bread logo">
 </p>
