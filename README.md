@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img width="600" src="/images/csp_selection.jpg" alt="Material Bread logo">
+    <img width="800" src="/images/csp_selection.jpg" alt="Material Bread logo">
 </p>
 
 In the field of motor imagery neurofeedback (MI-NF) and motor imagery brain-computer interface (MI-BCI), studies have consistently reported inter-individual performance variability. 
