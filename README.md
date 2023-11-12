@@ -162,7 +162,8 @@ The results did not show any meaningful pattern to verify a relationship between
 
 ### Factors influencing the results
 
-**1. Simulation accuracy:** The accuracy of the simulation used to derive anatomical information and compare it to CSP patterns may not be sufficient to interpret anatomical variability at the sensor level. Factors affecting the accuracy of the simulation include:
+**1. Simulation accuracy:** 
+The accuracy of the simulation used to derive anatomical information and compare it to CSP patterns may not be sufficient to interpret anatomical variability at the sensor level. Factors affecting the accuracy of the simulation include:
 - Errors in forward and source modeling.
 - The simulation does not account for individual characteristics such as age, which is important in this study.
 - The simulation procedure does not take into account certain cortical and non-cortical activities that influence real EEG data and consequently CSPs. This discrepancy between simulated and real EEG patterns is evident in the histogram of correlations between subjects' simulated patterns and CSPs, where simulated patterns show high correlation while CSPs differ from each other.
@@ -171,6 +172,9 @@ The results did not show any meaningful pattern to verify a relationship between
     <img width="600" src="/images/simulation_error1.jpg" alt="Material Bread logo">
 </p>
   
+**2. Separate recording of EEG and fMRI:**
+The potential influence of different session conditions on cortical activities is a consideration. The use of fMRI data for ROI definition and simulation, followed by comparison of simulation results with real EEG data for CSP selection, may be affected by possible differences in the source localization of activities between EEG and fMRI. 
+To mitigate these problems, simultaneous recording of both data types (Huster et al., 2012) or using EEG data for source localization and ROI definition could be explored.
 
 
 
