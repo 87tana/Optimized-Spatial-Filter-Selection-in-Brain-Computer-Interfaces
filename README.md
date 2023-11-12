@@ -60,3 +60,16 @@ The most activated vertices within the primary motor cortex (M1) and primary som
     <img width="800" src="/images/roi_definition.jpg" alt="Material Bread logo">
 </p>
 
+### Simulate EEG patterns
+
+In this step, the EEG voltage distributions were simulated at the scalp level. The EEG electrodes and cortical surfaces were co-registered. 
+A forward model was then computed using the symmetric boundary element method (BEM) to estimate volume conduction, and the source was modeled using the minimum norm estimation method. 
+The results included head and source models. The ROI was then seeded with a uniform signal, and the head and source models were used to simulate scalp-level EEG patterns.
+
+<p align="center">
+    <img width="300" src="/images/forward_model.jpg" alt="Material Bread logo">
+</p>
+
+<p align="center">
+    <img width="800" src="/images/eeg_simulation.jpg" alt="Material Bread logo">
+</p>
