@@ -148,4 +148,11 @@ To better understand the relationship between COR, ERD, and plausibility, the se
     <img width="550" src="/images/result_plausibility.jpg" alt="Material Bread logo">
 </p>
 
+## Average anatomical information for CSP selection
+
+As observed, significant correlations were found between the mean and SD simulation patterns. This suggests the hypothesis that using the mean simulated pattern may yield similar CSP selections compared to individual patterns. To test this, the mean simulated pattern is used in both CSP selection criteria. The resulting plots show the correlation between CSPs selected based on the mean and individual simulated patterns. For more than half of the subjects, the same CSP is chosen by both the mean and individual patterns. The table summarizes the results, showing that 45% of the cases selected the same plausible CSPs, 19% selected the same implausible CSPs, 10% selected different implausible CSPs, 11% selected only the plausible CSP selected by average information, and 15% required individual anatomy to select plausible CSPs.
+
+<p align="center">
+    <img width="600" src="/images/result_average_anatomical.jpg" alt="Material Bread logo">
+</p>
 
