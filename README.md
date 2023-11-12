@@ -221,8 +221,10 @@ Blankertz (Blankertz et al., 2010) evaluated the correlation between resting sta
 <p align="center">
     <img width="250" src="/images/bcor_vs_bqs.jpg" alt="Material Bread logo">
 </p>
-
 - In addition, the results indicated that both COR and ERD are important for a CSP to be plausible. While a large COR ensures the CSP pattern according to the simulation results, a large ERD ensures the lateralization strength of the CSP.
 - However, the importance of COR and ERD might vary across subjects, depending on inter-individual peculiarities and the quality of EEG signals.
 - Moreover, the results showed that the implausible CSPs usually come with poor ERD, but the other way around does not hold. 
 - Finally, the results showed that only in 15% of the cases individual anatomy was necessary to select plausible CSPs, for the rest the average anatomical information was sufficient.
+<p align="center">
+    <img width="250" src="/images/plausible_csp_statistics.jpg" alt="Material Bread logo">
+</p>
