@@ -73,3 +73,27 @@ The results included head and source models. The ROI was then seeded with a unif
 <p align="center">
     <img width="800" src="/images/simulate_eeg.jpg" alt="Material Bread logo">
 </p>
+
+### CSP selection approaches
+
+In this study, two different approaches to CSP pattern selection are explored, namely BCOR and BQS.
+
+#### BCOR
+In BCOR, the correlation (COR) between the simulated pattern and all available CSP patterns is calculated for each subject. 
+The CSP with the highest correlation value is then selected, based on the assumption that it is the most anatomically plausible for the subject.
+
+#### BQS
+In BQS, CSPs with significant correlations to the simulated patterns and substantial ERD are sought by maximizing the Quadratic Score (QS), where QS is the product of COR and ERD, scaled between 0 and 1. 
+For each ERD component (ERDi), a bandpass filter was applied to the EEG signal, followed by epochs from 0.5 to 5 seconds after the onset of execution and 7.5 to 3 seconds before the onset of rest. 
+After artifact rejection and application of CSPi, ERD was calculated using a formula based on signal power. The result was averaged over time, epochs, and channels to obtain a scalar value.
+
+<p align="center">
+    <img width="800" src="/images/bqs_overview.jpg" alt="Material Bread logo">
+</p>
+
+**Example:** CSP3 showed the highest correlation with the simulated pattern, albeit with a small ERD. 
+Conversely, CSP1 had the largest ERD, but with a small COR. Notably, CSP2 had the highest QS, with both a significant COR and ERD.
+
+<p align="center">
+    <img width="800" src="/images/bcor_example.jpg" alt="Material Bread logo">
+</p>
