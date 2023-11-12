@@ -49,5 +49,14 @@ The study steps are as follows:
 2. Simulate the cortical activity associated with hand motor execution to obtain EEG patterns at the scalp using forward modeling.
 3. Use the simulated pattern for each individual to select a CSP pattern. 
 4. Examine the selected CSP patterns for meaningful relationships to anatomical variability.
-  
+
+### Define ROI based on fMRI data
+
+In this study, due to uncertainty regarding the precise boundaries of hand motor activity in the cortex, individual BOLD signals from fMRI data are used to define the ROI. Cortical areas are extracted individually from the MRI data. 
+A first-level analysis is then performed to identify significantly activated vertices on each subject's cortical surface. 
+The most activated vertices within the primary motor cortex (M1) and primary somatosensory cortex (S1) are then selected as the ROI for each subject.
+
+<p align="center">
+    <img width="800" src="/images/roi_difinition.jpg" alt="Material Bread logo">
+</p>
 
