@@ -48,7 +48,6 @@ The study steps are as follows:
 1. Define the region of interest (ROI) for each subject based on individual functional information. 
 2. Simulate the cortical activity associated with hand motor execution to obtain EEG patterns at the scalp using forward modeling.
 3. Use the simulated pattern for each individual to select a CSP pattern. 
-4. Examine the selected CSP patterns for meaningful relationships to anatomical variability.
 
 ### Define ROI based on fMRI data
 
@@ -100,6 +99,7 @@ Conversely, CSP1 had the largest ERD, but with a small COR. Notably, CSP2 had th
 
 
 ## Results
+In this section, the selected CSP patterns are assessed for meaningful relationships to anatomical variability.
 Means and standard deviations (SD) are calculated to summarize the resulting patterns. The figures show substantial correlations between the simulated patterns for both hemispheres. 
 The mean simulated pattern is centered on the sensorimotor area, with the SD deviating only slightly from the mean. 
 As for the selected CSPs based on both approaches, they generally represent hand motor activity, with means concentrated in the sensorimotor area. 
