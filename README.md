@@ -57,6 +57,6 @@ A first-level analysis is then performed to identify significantly activated ver
 The most activated vertices within the primary motor cortex (M1) and primary somatosensory cortex (S1) are then selected as the ROI for each subject.
 
 <p align="center">
-    <img width="800" src="/images/roi_difinition.jpg" alt="Material Bread logo">
+    <img width="800" src="/images/roi_definition.jpg" alt="Material Bread logo">
 </p>
 
