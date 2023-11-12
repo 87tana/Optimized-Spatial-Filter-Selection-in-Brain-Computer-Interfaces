@@ -122,7 +122,7 @@ The results, shown in the table, indicate that only the selected CSPs based on B
 However, the overall surface patterns are almost identical between individuals, suggesting a negligible role of the hand knob in this study.
 
 <p align="center">
-    <img width="400" src="/images/result_hk_influence1.jpg" alt="Material Bread logo">
+    <img width="250" src="/images/result_hk_influence1.jpg" alt="Material Bread logo">
 </p>
 
 
