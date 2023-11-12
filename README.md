@@ -84,7 +84,7 @@ The CSP with the highest correlation value is then selected, based on the assump
 
 #### BQS
 In BQS, CSPs with significant correlations to the simulated patterns and substantial ERD are sought by maximizing the Quadratic Score (QS), where QS is the product of COR and ERD, scaled between 0 and 1. 
-For each ERD component (ERDi), a bandpass filter was applied to the EEG signal, followed by epochs from 0.5 to 5 seconds after the onset of execution and 7.5 to 3 seconds before the onset of rest. 
+For each ERD component (ERD<sub>i</sub>), a bandpass filter was applied to the EEG signal, followed by epochs from 0.5 to 5 seconds after the onset of execution and 7.5 to 3 seconds before the onset of rest. 
 After artifact rejection and application of CSPi, ERD was calculated using a formula based on signal power. The result was averaged over time, epochs, and channels to obtain a scalar value.
 
 <p align="center">
