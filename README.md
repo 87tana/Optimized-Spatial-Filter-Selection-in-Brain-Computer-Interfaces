@@ -212,3 +212,13 @@ According to the previous study (Zich, 2017), the application of plausible CSP f
 </br>
 While COR can be considered a significant measure of plausibility, ERD cannot always reliably assess plausibility as it may be influenced by other factors such as co-occurrence of irrelevant activities that affect alpha rhythm, inter-individual differences in resting state SMR.
 Blankertz (Blankertz et al., 2010) evaluated the correlation between resting state SMR and BCI performance. They showed that there are inter-individual differences in the power of resting state SMR and that it can be used to predict BCI performance.
+
+### Summary
+
+- The results did not show a direct correspondence between the anatomical variabilities considered and neither the simulated EEG patterns nor the selected CSPs.
+- However, this study was influenced by a number of factors, such as data recording, ROI selection, simulation conditions, data preprocessing, and unbalanced data set, which should be considered in future studies.
+- This study also showed that the proposed CSP selection methods based on anatomical information can select plausible CSPs in about 70% of the cases.
+- In addition, the results indicated that both COR and ERD are important for a CSP to be plausible. While a large COR ensures the CSP pattern according to the simulation results, a large ERD ensures the lateralization strength of the CSP.
+- However, the importance of COR and ERD might vary across subjects, depending on inter-individual peculiarities and the quality of EEG signals.
+- Moreover, the results showed that the implausible CSPs usually come with poor ERD, but the other way around does not hold. 
+- Finally, the results showed that only in 15% of the cases individual anatomy was necessary to select plausible CSPs, for the rest the average anatomical information was sufficient.
