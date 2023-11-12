@@ -131,7 +131,7 @@ To assess the role of gyral activity, subjects are ordered by the percentage of 
 The resulting plot shows a monotonically decreasing pattern with no inflection point, which prevented the subjects from being grouped for a t-test.
 
 <p align="center">
-    <img width="250" src="/images/gyral_order.jpg" alt="Material Bread logo">
+    <img width="350" src="/images/gyral_order.jpg" alt="Material Bread logo">
 </p>
 
 To examine gyrus activity in more detail, each pair of subjects is plotted against two features: their correlation score and the difference between their gyrus activities. 
