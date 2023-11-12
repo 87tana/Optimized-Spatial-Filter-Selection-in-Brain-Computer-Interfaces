@@ -131,13 +131,13 @@ To assess the role of gyral activity, subjects are ordered by the percentage of 
 The resulting plot shows a monotonically decreasing pattern with no inflection point, which prevented the subjects from being grouped for a t-test.
 
 <p align="center">
-    <img width="250" src="/images/gral_order.jpg" alt="Material Bread logo">
+    <img width="250" src="/images/gyral_order.jpg" alt="Material Bread logo">
 </p>
 
 To examine gyrus activity in more detail, each pair of subjects is plotted against two features: their correlation score and the difference between their gyrus activities. 
 The plot shows no linear relationship between the subjects' correlations and their gyral activities, meaning that there is no meaningful relationship between gyral activity and the subjects' simulated patterns and CSPs.
 
 <p align="center">
-    <img width="600" src="/images/result2.jpg" alt="Material Bread logo">
+    <img width="800" src="/images/result2.jpg" alt="Material Bread logo">
 </p>
 
