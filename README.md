@@ -145,7 +145,7 @@ The plot shows no linear relationship between the subjects' correlations and the
 To better understand the relationship between COR, ERD, and plausibility, the selected CSPs are sorted by their COR values and their plausibility is examined based on the Niclas guidelines. In the figure, the red curve represents the COR values and the blue curve represents the ERD values. Typically, the first CSPs are more plausible for both criteria, although there are exceptions. For example, C08 has the best correlation but seems less plausible than C13. A comparison of COR and ERD shows that in many cases a large COR value coincides with a large ERD, but this correlation is not consistent. Impractical CSPs often have small ERDs, but the reverse is not necessarily true, suggesting that COR and ERD may have different importance in CSP selection for different subjects.
 
 <p align="center">
-    <img width="5500" src="/images/result_plausibility.jpg" alt="Material Bread logo">
+    <img width="500" src="/images/result_plausibility.jpg" alt="Material Bread logo">
 </p>
 
 
