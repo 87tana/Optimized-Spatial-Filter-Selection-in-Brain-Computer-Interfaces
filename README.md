@@ -177,5 +177,12 @@ The potential influence of different session conditions on cortical activities i
 To mitigate these problems, simultaneous recording of both data types (Huster et al., 2012) or using EEG data for source localization and ROI definition could be explored.
 
 
+**3. Band-pass filter with a fixed frequency window:**
+Applying a band-pass filter with a fixed frequency window could affect the results, potentially removing a significant portion of the alpha power for some subjects. 
+Alpha frequency is known to be a trait-like variable that can vary between subjects due to factors such as age. Given the range in age of the subjects (48 to 77 years), their alpha peak could be close to 8 Hz. 
+Setting the lower limit of the filter at 8 Hz could result in the loss of some of the alpha power for some older subjects, which could affect the accuracy of the computed CSPs and ERDs for further analysis.
 
+<p align="center">
+    <img width="600" src="/images/band_pass_error.jpg" alt="Material Bread logo">
+</p>
 
