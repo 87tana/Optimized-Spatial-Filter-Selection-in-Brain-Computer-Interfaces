@@ -30,3 +30,19 @@ The HK, located anterior to the central sulcus, exhibits a knob-like structure t
 <p align="center">
     <img width="600" src="/images/hand_knob.jpg" alt="Material Bread logo">
 </p>
+
+## Dataset
+
+This study involves the re-analysis of a separately recorded EEG-(f)MRI dataset comprising 20 healthy older adults ranging in age from 48 to 77 years, with a mean age of 61.4 years (Meekes et al., 2017).
+The dataset focuses on the task of hand motor execution, specifically closing and opening actions in a pseudo-random order, with 20 trials:
+- Rest: 5-9 s 
+- Cue: 3 s 
+- Execution: 5 s
+  
+<p align="center">
+    <img width="600" src="/images/data_modalities.jpg" alt="Material Bread logo">
+</p>
+<p align="center">
+    <img width="600" src="/images/handmotor.gif" alt="Material Bread logo">
+</p>
+
