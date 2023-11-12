@@ -194,12 +194,12 @@ This may have influenced our results, as the mean and diversity of the subjects'
 The imperfection of the extracted cortical surface may affect the source space and thus the simulation results. Handles and bumps on the surface can displace current dipoles from their true positions and affect their orientation. For example, gyral dipoles may fall into sulci and vice versa. This discrepancy in source space could lead to inaccurate EEG patterns at the scalp level, since the accuracy of the forward model is highly dependent on the accuracy of the source space.
 
 <p align="center">
-    <img width="200" src="/images/handle_bump.jpg" alt="Material Bread logo">
+    <img width="150" src="/images/handle_bump.jpg" alt="Material Bread logo">
 </p>
 
 **6. Unbalance and limited diversity of hand knob variants:**
 The unbalanced number of samples of different HK types limited the statistical analysis. Future studies should consider increasing the diversity of knob samples in their datasets.
 
 <p align="center">
-    <img width="300" src="/images/hk_statistics.jpg" alt="Material Bread logo">
+    <img width="250" src="/images/hk_statistics.jpg" alt="Material Bread logo">
 </p>
