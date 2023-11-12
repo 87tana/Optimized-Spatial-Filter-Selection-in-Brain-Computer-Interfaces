@@ -71,5 +71,5 @@ The results included head and source models. The ROI was then seeded with a unif
 </p>
 
 <p align="center">
-    <img width="800" src="/images/eeg_simulate.jpg" alt="Material Bread logo">
+    <img width="800" src="/images/simulate_eeg.jpg" alt="Material Bread logo">
 </p>
