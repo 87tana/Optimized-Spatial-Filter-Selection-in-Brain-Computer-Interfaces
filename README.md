@@ -166,7 +166,7 @@ The results may be affected by several factors.
 - The accuracy of the simulation used to derive anatomical information and compare it to CSP patterns may not be sufficient to interpret anatomical variability at the sensor level. Factors affecting the accuracy of the simulation include errors in forward and source modeling.
 
 <p align="center">
-    <img width="600" src="/images/simulation_error.jpg" alt="Material Bread logo">
+    <img width="600" src="/images/simulation_error1.jpg" alt="Material Bread logo">
 </p>
   
 - The simulation does not account for individual characteristics such as age, which is important in our study.
