@@ -106,6 +106,6 @@ As for the selected CSPs based on both approaches, they generally represent hand
 However, the SD values show that the patterns are distributed throughout the head, with significant deviations from the mean for different subjects.
 
 <p align="center">
-    <img width="800" src="/images/result1.jpg" alt="Material Bread logo">
+    <img width="600" src="/images/result1.jpg" alt="Material Bread logo">
 </p>
 
