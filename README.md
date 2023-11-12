@@ -162,8 +162,6 @@ The results did not show any meaningful pattern to verify a relationship between
 
 ### Factors influencing the results
 
-The results may be affected by several factors. 
-
 **1. Simulation accuracy:** The accuracy of the simulation used to derive anatomical information and compare it to CSP patterns may not be sufficient to interpret anatomical variability at the sensor level. Factors affecting the accuracy of the simulation include:
 - Errors in forward and source modeling.
 - The simulation does not account for individual characteristics such as age, which is important in this study.
