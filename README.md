@@ -19,8 +19,8 @@ However, the current landscape lacks a systematic approach for filter selection,
 </p>
 
 ## Aim of Study
-The \textbf{hypothesis} is that anatomical variabilities can help explain the variability of scalp-level EEG patterns and CSP patterns.
-Therefore, the \textbf{aim of this study} is to investigate the correlations between inter-individual anatomical variabilities and scalp-level EEG patterns in order to evaluate two CSP selection approaches that take anatomical information into account. 
+The **hypothesis** is that anatomical variabilities can help explain the variability of scalp-level EEG patterns and CSP patterns.
+Therefore, the **aim of this study** is to investigate the correlations between inter-individual anatomical variabilities and scalp-level EEG patterns in order to evaluate two CSP selection approaches that take anatomical information into account. 
 In particular, two anatomical variabilities were considered: 
 - the morphological variability of the hand knob (HK), a key area in the motor cortex,
 - the percentage of cortical activity during hand motor execution in the gyrus. 
