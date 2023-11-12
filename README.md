@@ -111,13 +111,18 @@ However, the SD values show that the patterns are distributed throughout the hea
 
 ### Influence of hand knob variants
 To assess whether anatomical differences in HK could lead to different surface patterns, the correlation between simulated patterns is calculated to measure differences and similarities between individuals. 
-This served as a distance measure between individuals. Due to insufficient samples of all the knob variants, subjects are divided into two groups: one with Omega and one with other knob variants. 
+This served as a distance measure between individuals. Due to insufficient samples of all the knob variants, subjects are divided into two groups: one with Omega and one with other knob variants.
+
+<p align="center">
+    <img width="200" src="/images/group_size.jpg" alt="Material Bread logo">
+</p>
+
 Differences in correlations between subjects with Omega variants and those with other variants were analyzed using a two-sample t-test. 
 The results, shown in the table, indicate that only the selected CSPs based on BCOR in the right hemisphere of subjects with Omega variants are significantly different from those with other knob variants. 
 However, the overall surface patterns are almost identical between individuals, suggesting a negligible role of the hand knob in this study.
 
 <p align="center">
-    <img width="600" src="/images/result_hk_influence.jpg" alt="Material Bread logo">
+    <img width="400" src="/images/result_hk_influence.jpg" alt="Material Bread logo">
 </p>
 
 
