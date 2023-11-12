@@ -97,3 +97,15 @@ Conversely, CSP1 had the largest ERD, but with a small COR. Notably, CSP2 had th
 <p align="center">
     <img width="800" src="/images/bcor_example.jpg" alt="Material Bread logo">
 </p>
+
+
+## Results
+Means and standard deviations (SD) are calculated to summarize the resulting patterns. The figures show substantial correlations between the simulated patterns for both hemispheres. 
+The mean simulated pattern is centered on the sensorimotor area, with the SD deviating only slightly from the mean. 
+As for the selected CSPs based on both approaches, they generally represent hand motor activity, with means concentrated in the sensorimotor area. 
+However, the SD values show that the patterns are distributed throughout the head, with significant deviations from the mean for different subjects.
+
+<p align="center">
+    <img width="800" src="/images/result1.jpg" alt="Material Bread logo">
+</p>
+
