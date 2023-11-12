@@ -125,7 +125,7 @@ However, the overall surface patterns are almost identical between individuals, 
     <img width="250" src="/images/result_hk_influence1.jpg" alt="Material Bread logo">
 </p>
 
-## Influence of gyral activity
+### Influence of gyral activity
 
 To assess the role of gyral activity, subjects are ordered by the percentage of their ROIs that lay in the gyrus. 
 The resulting plot shows a monotonically decreasing pattern with no inflection point, which prevented the subjects from being grouped for a t-test.
@@ -141,14 +141,14 @@ The plot shows no linear relationship between the subjects' correlations and the
     <img width="800" src="/images/result2.jpg" alt="Material Bread logo">
 </p>
 
-## Relationship between COR, ERD, and plausibility
+### Relationship between COR, ERD, and plausibility
 To better understand the relationship between COR, ERD, and plausibility, the selected CSPs are sorted by their COR values and their plausibility is examined based on the Niclas guidelines. In the figure, the red curve represents the COR values and the blue curve represents the ERD values. Typically, the first CSPs are more plausible for both criteria, although there are exceptions. For example, C08 has the best correlation but seems less plausible than C13. A comparison of COR and ERD shows that in many cases a large COR value coincides with a large ERD, but this correlation is not consistent. Impractical CSPs often have small ERDs, but the reverse is not necessarily true, suggesting that COR and ERD may have different importance in CSP selection for different subjects.
 
 <p align="center">
     <img width="550" src="/images/result_plausibility.jpg" alt="Material Bread logo">
 </p>
 
-## Average anatomical information for CSP selection
+### Average anatomical information for CSP selection
 
 As observed, significant correlations were found between the mean and SD simulation patterns. This suggests the hypothesis that using the mean simulated pattern may yield similar CSP selections compared to individual patterns. To test this, the mean simulated pattern is used in both CSP selection criteria. The resulting plots show the correlation between CSPs selected based on the mean and individual simulated patterns. For more than half of the subjects, the same CSP is chosen by both the mean and individual patterns. The table summarizes the results, showing that 45% of the cases selected the same plausible CSPs, 19% selected the same implausible CSPs, 10% selected different implausible CSPs, 11% selected only the plausible CSP selected by average information, and 15% required individual anatomy to select plausible CSPs.
 
