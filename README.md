@@ -156,3 +156,10 @@ As observed, significant correlations were found between the mean and SD simulat
     <img width="800" src="/images/result_average_anatomical.jpg" alt="Material Bread logo">
 </p>
 
+## Conclusion
+
+The results did not show any meaningful pattern to verify a relationship between the considered anatomical variabilities and the simulated EEG voltage distribution at the scalp level and the selected CSPs.
+
+
+
+
