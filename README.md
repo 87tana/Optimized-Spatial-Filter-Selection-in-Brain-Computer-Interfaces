@@ -203,3 +203,8 @@ The unbalanced number of samples of different HK types limited the statistical a
 <p align="center">
     <img width="250" src="/images/hk_statistics.jpg" alt="Material Bread logo">
 </p>
+
+
+### Exploring CSP's plausibility
+
+According to the previous study (Zich, 2017), the application of plausible CSP filters is crucial, especially in the context of MI-NF, as they can enhance cortical reorganization of the sensorimotor area, which plays a key role in brain plasticity and, consequently, motor recovery after stroke. Examination of the CSPs selected by BCOR and BQS showed that for some subjects, both approaches led to the selection of plausible CSPs. However, for some other subjects, only one of the approaches could select plausible CSPs, and there are also some subjects for whom both selected CSPs were implausible. The results suggest that both COR and ERD are important for a CSP to be plausible. While a large COR ensures that the CSP pattern follows the pattern of the simulation results, a large ERD ensures the lateralization strength of the CSP. However, the importance of COR and ERD may vary between subjects depending on inter-individual differences and the quality of the EEG signals.
