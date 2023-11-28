@@ -1,4 +1,4 @@
-# Data-Driven Spatial Filter Selection for Adaptive Brain-Computer Interfaces 
+# Optimized Spatial Filter Selection in Brain-Computer Interfaces: A Data-Driven Approach
 <!--Influence of Morphological and Functional Variability on Surface EEG-->
 
 
